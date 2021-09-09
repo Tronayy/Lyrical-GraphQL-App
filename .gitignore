@@ -1,0 +1,8 @@
+node_modules
+.DS_STORE
+.env.local
+.env.devlopment.local
+.env.test.local
+.env.production.local
+
+
